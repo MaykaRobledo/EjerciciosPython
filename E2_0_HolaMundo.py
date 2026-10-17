@@ -1,3 +1,4 @@
+# Comentario de prueba
 import re
 
 # En Python no hace falta declarar el tipo de las variables.
